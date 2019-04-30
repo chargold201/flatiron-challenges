@@ -9,5 +9,5 @@ def light_switch(arr)
             end
         end
     end
-    puts bulb
+    bulb
 end
