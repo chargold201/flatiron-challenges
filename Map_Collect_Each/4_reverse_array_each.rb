@@ -3,4 +3,5 @@ def reverse_array(arr)
     arr.each do |element|
         reversed.unshift(element)
     end
+    reversed
 end
